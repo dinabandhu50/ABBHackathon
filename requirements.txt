@@ -1,0 +1,13 @@
+# core libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+xgboost
+lightgbm
+catboost
+# best practices
+python-dotenv
+pydantic-settings
+tqdm
