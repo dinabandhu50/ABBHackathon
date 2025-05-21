@@ -176,3 +176,4 @@ cython_debug/
 # custom file folders
 data/
 JD/
+*.DS_Store
