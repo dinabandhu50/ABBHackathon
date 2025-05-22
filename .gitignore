@@ -177,3 +177,5 @@ cython_debug/
 data/
 JD/
 *.DS_Store
+oofs/
+models/
